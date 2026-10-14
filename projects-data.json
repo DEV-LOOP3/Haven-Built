@@ -1,0 +1,79 @@
+[
+  {
+    "number": 1,
+    "title": "Four-floor Faculty of Basic and Medical Sciences",
+    "description": "Construction of four floors faculty basic and medical services at Redeemers University, Ede, Osun State.",
+    "client": "Redeemers University, Ede, Osun State",
+    "category": "Institutional construction"
+  },
+  {
+    "number": 2,
+    "title": "Redeemers International Academy facilities",
+    "description": "Construction of boys hostel, multipurpose hall, and a 4-bedroom flat for the vice principal at Redeemers International Academy, Ifewara, Osun State.",
+    "client": "Redeemers International Academy, Ifewara, Osun State",
+    "category": "Institutional construction"
+  },
+  {
+    "number": 3,
+    "title": "Six-bedroom duplex and boys’ quarters",
+    "description": "Development of a 6-bedroom duplex and boys’ quarters at Oke-Igbo, Ondo State.",
+    "client": "Pastor Mrs Foluke Adeboye",
+    "category": "Residential"
+  },
+  {
+    "number": 4,
+    "title": "1.2 km drainage at El-Shaddai farms",
+    "description": "Construction of 1.2 km drainage at El-Shaddai Farm One and Two, Ifewara, Osun State.",
+    "client": "El-Shaddai Dairy Farm",
+    "category": "Civil infrastructure"
+  },
+  {
+    "number": 5,
+    "title": "El-Shaddai Dairy Farm perimeter fencing",
+    "description": "Perimeter fencing at El-Shaddai Dairy Farm, Ifewara, Osun State.",
+    "client": "El-Shaddai Dairy Farm",
+    "category": "Civil infrastructure"
+  },
+  {
+    "number": 6,
+    "title": "Mount Carmel Prayer Village dormitories",
+    "description": "Construction of dormitories at Mount Carmel Prayer Village, Ifewara, Osun State.",
+    "client": "Pastor and Pastor Mrs. Foluke Adeboye",
+    "category": "Institutional construction"
+  },
+  {
+    "number": 7,
+    "title": "RCCG Champion Sanctuary",
+    "description": "Construction of a 750-seat sanctuary with gallery at RCCG Champion Sanctuary, Oke-Igbo, Ondo State.",
+    "client": "Pastor and Pastor Mrs. Foluke Adeboye, Oke-Igbo, Ondo State",
+    "category": "Religious construction"
+  },
+  {
+    "number": 8,
+    "title": "Four-bedroom monoplex with pent floor",
+    "description": "Construction of a 4-bedroom monoplex building with pent floor at Owu-Ikija, Ijebu, Ogun State.",
+    "client": "Mr. Olumide Olowu Kujore",
+    "category": "Residential"
+  },
+  {
+    "number": 9,
+    "title": "Basketball pitch at Royal Haven Estate",
+    "description": "Construction of a basketball pitch at Royal Haven Estate, Mowe Ofada, Abeokuta Way, Orile Imo, Ogun State.",
+    "client": "Revolution Plus Properties",
+    "category": "Sports and recreation"
+  },
+  {
+    "number": 10,
+    "title": "Six-building duplex development at Redemption Camp",
+    "description": "Construction of six duplex buildings opposite Bethel Place, Redemption Camp, Mowe, Ogun State.",
+    "client": "Pastor and Pastor Mrs. Bukola Adeboye",
+    "category": "Residential"
+  },
+  {
+    "number": 11,
+    "title": "Residential development at Molipa Express",
+    "description": "Construction of a modern 6-bedroom duplex, a 6-bedroom bungalow with two-room pent floor, and a 4-bedroom bungalow at Molipa Express, behind Pepe’s House, Ijebu-Ode, Ogun State.",
+    "client": "Alhaji Ashimi Adekunle Abdul-Rasheed",
+    "category": "Residential"
+  }
+]
